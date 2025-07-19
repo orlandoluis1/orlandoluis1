@@ -1,4 +1,4 @@
-<h1 align="center">My name is Orlando Web Developer
+<h1 align="center">My name is Orlando and I'm a Web Developer
 </h1>
 
 ###
